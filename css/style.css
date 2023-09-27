@@ -351,10 +351,14 @@ nav .bi {
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
 }
 
-@media(max-width: 1025) {
+@media(max-width: 1024px) {
 
     .portfolio img {
-        width: 30%;
+        width: 80%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
 }
 
