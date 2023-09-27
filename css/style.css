@@ -353,10 +353,10 @@ nav .bi {
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
 
-    .portfolio img {
+    .portfolio-row {
         display: block;
-        padding-left: 30%;
-        padding-right: 30%;
+        padding-left: 15%;
+        padding-right: 15%;
 
     }
 }
